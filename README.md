@@ -16,6 +16,7 @@
 </div>
 
 
+
 # Hi, I’m [Aditya 👋](https://aditya-anand.com/)
 ## 🚀 About me
 - Self-taught JavaScript developer.
@@ -23,15 +24,18 @@
 - Current year resolution is to become a Full-stack Web Developer.
 ## 🛠 Skills
 - HTML, CSS, Javascript, Python
-## Stats
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sqladitya&theme=radical&show_icons=true)
+## 📊 Stats 
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sqladitya&theme=radical&show_icons=true) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sqladitya&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ## Total Profile Visits
 ![Aditya's profile visit](https://profile-counter.glitch.me/%7Bsqladitya%7D/count.svg)
 ## Languages Used
-![Aditya's Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=sqladitya&amp;langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sqladitya&layout=compact&theme=vision-friendly-dark)](https://github.com/sqladitya/github-readme-stats)
+
 ## Other Common Github Profile Sections
 -  I'm currently working on Back-End Development
--  I’m currently learning MySQL, Python
+-  I’m currently learning MySQL, Python, JavaScript
 -  I’m interested in Full Stack Web Development
 -  I'm looking for help with the proper guide to become a Full Stack web developer
 -  Ask me if you started web-development and have doubt how to proceed.
