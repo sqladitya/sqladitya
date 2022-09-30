@@ -25,7 +25,7 @@
 ## 🛠 Skills
 - HTML, CSS, Javascript, Python
 ## 📊 Stats 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sqladitya&theme=radical&show_icons=true) 
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sqladitya&theme=radical&show_icons=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sqladitya&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## Total Profile Visits
