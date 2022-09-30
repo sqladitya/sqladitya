@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Hackerrank-black?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/>
   </a>
   <a href="https://twitter.com/sqladitya" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter Badge"/>
   </a>
 </div>
 
