@@ -4,13 +4,13 @@
 
 <div id="badges" align="center">
 
-  <a href="https://www.linkedin.com/in/sqladitya/" target="_blank">
+  <a href="https://www.linkedin.com/in/sqladitya/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/sqladitya" target="_blank">
+  <a href="https://www.hackerrank.com/sqladitya" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Hackerrank-black?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/>
   </a>
-  <a href="https://twitter.com/sqladitya" target="_blank">
+  <a href="https://twitter.com/sqladitya" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
