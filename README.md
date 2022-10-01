@@ -26,8 +26,7 @@
 - HTML, CSS, Javascript, Python
 ## 📊 Stats 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sqladitya&theme=radical&show_icons=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sqladitya&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sqladitya&theme=dark&background=000000)]
 ## Total Profile Visits
 ![Aditya's profile visit](https://profile-counter.glitch.me/%7Bsqladitya%7D/count.svg)
 ## Languages Used
