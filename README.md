@@ -46,6 +46,6 @@
 ![Aditya's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=sqladitya&amp;bg_color=000000&amp;color=ff0000&amp;line=99ff00&amp;point=fff5f5&amp)
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring the repositories!
 
 </div>
