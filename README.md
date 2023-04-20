@@ -42,9 +42,7 @@
 -  I’m interested in Full Stack Web Development
 -  I'm looking for help with the proper guide to become a Full Stack web developer
 -  Ask me if you started web-development and have doubt how to proceed.
-## Graph
-![Aditya's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=sqladitya&amp;bg_color=000000&amp;color=ff0000&amp;line=99ff00&amp;point=fff5f5&amp)
-<div align="center">
+
 
 ### Show some ❤️ by starring the repositories!
 
