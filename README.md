@@ -23,10 +23,14 @@
 - Currently learning Full-Stack Web Development.
 - Current year resolution is to become a Full-stack Web Developer.
 ## 🛠 Languages and Tools:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
+
+
 ## Languages Used
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sqladitya&layout=compact&theme=vision-friendly-dark)](https://github.com/sqladitya/github-readme-stats)
 ## 📊 Stats 
@@ -37,8 +41,8 @@
 
 
 ## Other Common Github Profile Sections
--  I'm currently working on Back-End Development
--  I’m currently learning MySQL, Python, JavaScript
+-  I'm currently working on Java Project
+-  I’m currently learning UI/UX
 -  I’m interested in Full Stack Web Development
 -  I'm looking for help with the proper guide to become a Full Stack web developer
 -  Ask me if you started web-development and have doubt how to proceed.
