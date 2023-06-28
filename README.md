@@ -18,9 +18,9 @@
 
 
 # Hi, I’m [Aditya 👋](https://aditya-anand.com/)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ysabeau+SC&weight=500&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Data+Structure+and+Algorithm;UI%2FUX+Designer;Full+Stack+Web+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ysabeau+SC&weight=500&size=25&duration=6000&pause=1000&center=true&vCenter=true&width=435&lines=Data+Structure+and+Algorithm;UI%2FUX+Designer;Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 ## 🚀 About me
-
+- Currently wroking on [UMS-JAVA](https://github.com/sqladitya/UMS-Java) 
 - Self-taught JavaScript developer.
 - Currently learning Full-Stack Web Development.
 - Current year resolution is to become a Full-stack Web Developer.
