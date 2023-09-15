@@ -21,9 +21,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ysabeau+SC&weight=500&size=25&duration=6000&pause=1000&center=true&vCenter=true&width=435&lines=Data+Structure+and+Algorithm;UI%2FUX+Designer;Java+Developer" alt="Typing SVG" /></a>
 ## 🚀 About me
 - Currently wroking on [Library-Management System- JAVA Web App](https://github.com/sqladitya/LMS) 
-- Self-taught JavaScript developer.
-- Currently learning Full-Stack Web Development.
-- Current year resolution is to become a Full-stack Web Developer.
+- Self-taught Java developer.
+- Currently practicing DSA in Java.
+- Current year resolution is to become a Cloud Practitioner.
 ## 🛠 Languages and Tools:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
