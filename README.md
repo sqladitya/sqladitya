@@ -9,7 +9,6 @@
 <!-- SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/sqladitya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:myself.adityaanand@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://aditya-anand.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 <a href="https://twitter.com/sqladitya" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://github.com/sqladitya" target="_blank"><img src="https://img.shields.io/badge/GitHub-sqladitya-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
@@ -51,7 +50,6 @@ Certifications :
   - Azure Administrator Associate (AZ-104)
 Languages      : Hindi (Native) | English (Professional)
 Contact        : myself.adityaanand@gmail.com | +91-6205950894
-Website        : https://aditya-anand.com
 Resume         : https://drive.google.com/file/d/1Sy3iWBFekxZUJM4SILtLrHSwrTOxf3pM/view?usp=sharing
 ```
 
